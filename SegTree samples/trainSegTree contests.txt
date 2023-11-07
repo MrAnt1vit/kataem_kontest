@@ -1,0 +1,17 @@
+В примерах релализованны различиные варианты решения задачи, где надо:
+1. Присваивать в точке
+2. Прибавлять на отрезке
+3. Узнавать сумму на отрезке
+4. Узнавать максимум на отрезке
+
+
+если к какому то контесту нет доступа - напишите мне, пофиксим (не все контесты открытые)
+
+tasks 1-7 (A-G)
+https://sirius2021.contest.codeforces.com/group/Xbf70KMJGz/contest/352349
+
+tasks 1-3 (A-C)
+https://codeforces.com/group/rSpWrXZAgS/contest/450392
+
+tasks 1-3 (A-C)
+https://sirius2021.contest.codeforces.com/group/Xbf70KMJGz/contest/352532
