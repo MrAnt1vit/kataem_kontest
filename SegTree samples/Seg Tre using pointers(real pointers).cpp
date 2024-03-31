@@ -6,6 +6,7 @@
 
 // https://sirius2021.contest.codeforces.com/group/Xbf70KMJGz/contest/352349/problem/A
 // https://sirius2021.contest.codeforces.com/group/Xbf70KMJGz/contest/352532/problem/A
+
 struct SegTree {
   // 0-indexed
   // a[l...r] = [l, r)
